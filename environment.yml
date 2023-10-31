@@ -12,7 +12,7 @@ dependencies:
  # - dataclasses-json
  # - deepmerge
  # - distributed
- # - faiss-cpu
+  - faiss-cpu
  # - fsspec
  # - jsonpatch
  # - jsonpath-ng
