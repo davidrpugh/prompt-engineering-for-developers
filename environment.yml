@@ -4,7 +4,6 @@ channels:
   - conda-forge
   - defaults
 
-sortedcontainers, faiss-cpu, deepmerge, zict, tqdm, toolz, tblib, regex, msgpack, locket, fsspec, cloudpickle, tiktoken, partd, openai, dask, distributed, jupyter_ai
 dependencies:
  # - aiohttp
  # - click
