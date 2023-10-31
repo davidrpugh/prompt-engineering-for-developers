@@ -5,38 +5,15 @@ channels:
   - defaults
 
 dependencies:
- # - aiohttp
- # - click
- # - cloudpickle
   - dask
- # - dataclasses-json
- # - deepmerge
- # - distributed
+  - deepmerge
   - faiss-cpu
- # - fsspec
- # - jsonpatch
- # - jsonpath-ng
   - jupyter-ai-magics
   - jupyterlab
   - langchain
- # - langsmith
- # - locket
- # - marshmallow
- # - msgpack
- # - mypy-extensions
   - openai
- # - partd
   - pip
   - pip:
     - -r requirements.txt
- # - ply
- # - pydantic
   - python
- # - sortedcontainers
- # - tblib
- # - tenacity
   - tiktoken
- # - toolz
- # - tqdm
- # - typing-inspect
- # - zict 
