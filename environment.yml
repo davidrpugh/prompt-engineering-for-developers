@@ -18,13 +18,13 @@ dependencies:
  # - jsonpath-ng
   - jupyter-ai-magics
   - jupyterlab
- # - langchain
+  - langchain
  # - langsmith
  # - locket
  # - marshmallow
  # - msgpack
  # - mypy-extensions
- # - openai
+  - openai
  # - partd
   - pip
   - pip:
