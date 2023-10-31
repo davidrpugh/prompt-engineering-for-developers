@@ -8,6 +8,7 @@ dependencies:
   - aiohttp
   - faiss-cpu
   - jupyterlab
+  - pip
   - pip:
     - -r requirements.txt
   - python
