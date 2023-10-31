@@ -5,8 +5,11 @@ channels:
   - defaults
 
 dependencies:
+  - aiohttp
+  - faiss-cpu
+  - jupyterlab
   - pip:
     - -r requirements.txt
   - python
-  - jupyterlab
+  - tiktoken
   
