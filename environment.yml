@@ -8,7 +8,7 @@ dependencies:
  # - aiohttp
  # - click
  # - cloudpickle
- # - dask
+  - dask
  # - dataclasses-json
  # - deepmerge
  # - distributed
