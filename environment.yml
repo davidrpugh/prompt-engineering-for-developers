@@ -1,0 +1,12 @@
+name: prompt-engineering-for-developers
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - pip:
+    - -r requirements.txt
+  - python
+  - jupyterlab
+  
