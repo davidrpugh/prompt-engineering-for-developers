@@ -1,0 +1,19 @@
+name: prompt-engineering-for-developers
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - dask
+  - deepmerge
+  - faiss-cpu
+  - jupyter-ai-magics
+  - jupyterlab
+  - langchain
+  - openai
+  - pip
+  - pip:
+    - -r requirements.txt
+  - python
+  - tiktoken
