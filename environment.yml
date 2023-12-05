@@ -11,6 +11,7 @@ dependencies:
   - jupyter-ai-magics
   - jupyterlab
   - langchain
+  - nbgitpuller
   - openai
   - pip
   - pip:
