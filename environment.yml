@@ -8,6 +8,7 @@ dependencies:
   - dask
   - deepmerge
   - faiss-cpu
+  - gradio
   - jupyter-ai-magics
   - jupyterlab
   - langchain
