@@ -7,6 +7,7 @@ channels:
 dependencies:
   - dask
   - deepmerge
+  - diffusers
   - faiss-cpu
   - gradio
   - jupyter-ai-magics
