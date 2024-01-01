@@ -17,4 +17,5 @@ dependencies:
   - pip:
     - -r requirements.txt
   - python
+  - sentence-transformers
   - tiktoken
