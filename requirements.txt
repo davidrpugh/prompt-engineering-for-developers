@@ -1,3 +1,4 @@
 jupyter_ai
 llama-index
+nest-asyncio
 trulens-eval
