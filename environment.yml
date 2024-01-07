@@ -16,5 +16,7 @@ dependencies:
   - pip
   - pip:
     - -r requirements.txt
+  - pydub
   - python
   - tiktoken
+  - yt-dlp
